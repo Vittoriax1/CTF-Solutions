@@ -1,6 +1,6 @@
 # Art and Arf - Issue 5
 
-## Challenge 1
+## Challenge 1 - Cover Challenge
 
 ### Description of Challenge
 
