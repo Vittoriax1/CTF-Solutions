@@ -37,13 +37,43 @@ This is entered in as the key for the first of the Kickstarter challenges for **
 ### Solution
 
 KEY{6f5b99f}
+
 KEY{0fd1e52}
 
 ## Challenge 2
 
 ### Description of Challenge
 
+Challenge 2 gives me the following string:
+
+> QUJBQkIgQUFBQkEgQkFBQkEgQUFCQUIgLiBBQkFBQSBBQkJBQiAvIDEgQUFBQkEgNjUzIEFBQkFBIDE=
+
+It is identified as a Base 64 string, and when decrypted on DCode, it yields:
+
+> ABABB AAABA BAABA AABAB . ABAAA ABBAB / 1 AAABA 653 AABAA 1
+
+I know that some challenges start with mctf.io and and others are tficomic.io, so I am on the right track. I then copy that new code and paste it right back into DCode's Cipher Identifier tool. It is identified as likely being a Bacon cipher. DCode deciphers it to be:
+
+> MCTFIOCE
+
+Plugging the numbers in, this yields <a href="mctf.io/1C653E1">mctf.io/1C653E1</a>. Going to that URL yields the following:
+
+> Congratulations! You found a Kickstarter Challenge!
+> Here's a small bonus for finding it: KEY{1c653e1}. Submit it as a "Bonus" here.
+> Solve the challenge below for additional points. The flag will be in format KEY{...}:
+> We received 3 encrypted messages, but we know that all of them have been encrypted with the same XOR key and that one of them > is the flag in format KEY{...}. Here are the messages:
+>> 9d c2 d3 86 cf ee 9c 9f 68 d1 62
+>> 95 e8 e7 94 9e f7 bf c0 62 dc 6c
+>> 9d d4 dc 8a de bd bb 93 72 c8 74
+> Can you decrypt them?
+
+Before I go any further, I enter the Bonus key for **15** points. At this point, I got lazy and utilized ChatGPT so aid in the XOR decryption using prompts. It yielded the key KEY{29A03F}, which I then entered into the platform for **75** points.
+
 ### Solution
+
+KEY{1c653e1}
+
+KEY{29A03F}
 
 ## Challenge 3
 
