@@ -37,7 +37,6 @@ This is entered in as the key for the first of the Kickstarter challenges for **
 ### Solution
 
 KEY{6f5b99f}
-
 KEY{0fd1e52}
 
 ## Challenge 2
@@ -67,19 +66,64 @@ Plugging the numbers in, this yields <a href="mctf.io/1C653E1">mctf.io/1C653E1</
 >> 9d d4 dc 8a de bd bb 93 72 c8 74
 > Can you decrypt them?
 
-Before I go any further, I enter the Bonus key for **15** points. At this point, I got lazy and utilized ChatGPT so aid in the XOR decryption using prompts. It yielded the key KEY{29A03F}, which I then entered into the platform for **75** points.
+Before I go any further, I enter the Bonus key for **15** points. At this point, I got lazy and utilized ChatGPT to aid in the XOR decryption using prompts. It yielded the key KEY{29A03F}, which I then entered into the platform for **75** points.
 
 ### Solution
 
 KEY{1c653e1}
-
 KEY{29A03F}
 
 ## Challenge 3
 
 ### Description of Challenge
 
+> 11 1010 1 0010 010101 00 111 10010 100 10000 1010 11000 00000 11110 0
+
+Once again, I fed this cipher into <a href="dcode.fr/en">DCode</a>, and it tells me that the cipher is Morse code.  When I decrypted it in the siter, it yielded <a href="MCTF.IO/D6C759E">MCTF.IO/D6C759E</a>. Going to the aforementioned URL yielded the bonus KEY{d6c759e}, which is entered into the platform for **15** points. It also yielded another challenge: 
+
+> We're trying to hack into this program.
+> Can you find the passphrase it checks for?
+
+It links to <a href="https://challenges.tficomic.io/d6c759ed5c7e84c814af857d322ada5a/quantum_leaf.py">https://challenges.tficomic.io/d6c759ed5c7e84c814af857d322ada5a/quantum_leaf.py</a>. When I download it, it shows me the following code:
+```
+print("Quantum Leaf Login")
+passphrase = input("Please provide the passphrase to login: ")
+print()
+
+def check_passphrase(p):
+    c = "LZC:36|B@6zD"
+    if len(p) != len(c):
+        return False
+    return c == "".join([chr(ord(i)+1) for i in p[::2]] + [chr(ord(i)-1) for i in p[::-2]])
+
+if check_passphrase(passphrase):
+    print("You are logged in. The passphrase is correct!")
+else:
+    print("Incorrect. Please try again.")
+```
+Right off the bat, I can see c is the length of the word that I am looking for, which is 12.
+```
+c = "LZC:36|B@6zD"
+c (hex/positions):  0 1 2 3 4 5  6  7  8  9 10 11
+chars:              L Z C : 3 6  |  B  @  6  z  D
+
+p_even[i] = chr(ord(c[i]) - 1) for i = 0..5
+→ ['K', 'Y', 'B', '9', '2', '5']
+
+p_rev_even[j] = chr(ord(c[6+j]) + 1) for j = 0..5
+→ ['}', 'C', 'A', '7', '{', 'E']
+
+p[0] = 'K', p[2] = 'Y', p[4] = 'B', p[6] = '9', p[8] = '2', p[10] = '5'
+
+p[11] = '}', p[9] = 'C', p[7] = 'A', p[5] = '7', p[3] = '{', p[1] = 'E'
+```
+
+This yields a solution: KEY{B79A2C5}, which is entered into the platform for **75** points.
+
 ### Solution
+
+KEY{d6c759e}
+KEY{B79A2C5}
 
 ## Challenge 4
 
