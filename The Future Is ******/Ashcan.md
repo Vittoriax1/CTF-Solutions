@@ -30,7 +30,13 @@ And, looking at the reference inmage, the string is:
 
 To answer the first question, there are **24** letters in the string. And this is a type of clock cipher.
 
-I can't remember how exactly I solved it, but I know the plaintext was "REKCAH" and I entered it into the platform for **100** points.
+And counting the number of positiong for each clock setting, I then eliminated that number of letters and then choose the letter after.
+Clock 1: 3:30 was 7 positions, and letter 8 = R
+Clock 2: 4:30 was 9 positions, and letter 10 = E
+Clock 3: 8:30 was 17 positions, and letter 18 = K
+Clock 4: 6:00 was 12 positions, and letter 13 = C
+Clock 5: 10:30 was 21 positions, and letter 22 is A
+Clock 6: 1:00 was 2 positions, and letter 3 is H
 
 ### Solution
 
