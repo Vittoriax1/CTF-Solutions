@@ -2,6 +2,8 @@
 
 This is a chronological listing of the different issues of _The Future is ******_, as well as my explanations to how I arrived at my solutions.
 
+Note: Most of these are solved, but I need to complete the write-ups.
+
 1. Kickstarter Campaign 1
    1. Challenge 1 (SOLVED)
    2. Challenge 2 (SOLVED)
