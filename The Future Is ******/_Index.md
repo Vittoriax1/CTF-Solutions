@@ -41,7 +41,7 @@ This is a chronological listing of the different issues of _The Future is ******
    3. Challenge 3
    4. Challenge 4
 9. Kickstarter Campaign 2
-   1. Challenge 1
-   2. Challenge 2
+   1. Challenge 1 (SOLVED)
+   2. Challenge 2 (SOLVED)
    3. Challenge 3
    4. Challenge 4
