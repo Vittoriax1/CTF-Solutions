@@ -10,7 +10,7 @@ This is a chronological listing of the different issues of _The Future is ******
 2. Ashcan
    1. Challenge  (SOLVED)
 3. Backdoors & Breaches
-   1. Challenge 1
+   1. Challenge  (SOLVED)
 4. OGN - Issue 1
    1. Challenge 1 - Cover
    2. Challenge 2
