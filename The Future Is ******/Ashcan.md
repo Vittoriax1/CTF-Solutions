@@ -43,6 +43,7 @@ Clock 5: 10:30 was 21 positions, and letter 22 is A
 
 Clock 6: 1:00 was 2 positions, and letter 3 is H
 
+Submitted this in the platform for **100** points.
 ### Solution
 
 REKCAH
