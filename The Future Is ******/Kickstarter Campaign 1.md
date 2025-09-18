@@ -1,6 +1,6 @@
 # Kickstarter Campaign 1
 
-These challenges are found in the original Kickstarter campaign, found here: <a href="https://www.kickstarter.com/projects/rekcah/the-future-is-from-rekcah-comics/description">Kickstarter</a>.
+These challenges are found in the original Kickstarter campaign, found here: <a href="https://www.kickstarter.com/projects/rekcah/the-future-is-from-rekcah-comics/description">Kickstarter</a>. There is also, according to the Discord, a challenge embedded into the image for the Kickstarter campaign. 
 
 ## Challenge 1
 
@@ -37,6 +37,7 @@ This is entered in as the key for the first of the Kickstarter challenges for **
 ### Solution
 
 KEY{6f5b99f}
+
 KEY{0fd1e52}
 
 ## Challenge 2
@@ -71,6 +72,7 @@ Before I go any further, I enter the Bonus key for **15** points. At this point,
 ### Solution
 
 KEY{1c653e1}
+
 KEY{29A03F}
 
 ## Challenge 3
@@ -123,10 +125,19 @@ This yields a solution: KEY{B79A2C5}, which is entered into the platform for **7
 ### Solution
 
 KEY{d6c759e}
+
 KEY{B79A2C5}
 
 ## Challenge 4
 
 ### Description of Challenge
 
+Challenge 4 gives me the following string:
+
+> 84 84 111 011 05 84 25 74 89 811 64 511 301 211 221 74 74 85 201 99 301 301 711
+
+As of this time, I've not yet completed this challenge. I think it might be some type of XOR. 
+
 ### Solution
+
+
