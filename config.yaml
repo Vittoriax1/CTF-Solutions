@@ -1,1 +1,2 @@
-markdown: kramdown
+# Designating the markdown
+markdown: GFM
