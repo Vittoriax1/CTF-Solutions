@@ -15,6 +15,7 @@ To find the ashcan challenge, I found the copy in the Discord channel. I'd uploa
 
 In the Discord, I was able to find the Ashcan version. The file name is "SPOILER_TFI_AshcanEdition_DONT_DISTRIBUTE.pdf". I downloaded it, and on page 3, there is the challenge. 
 
+![Ashcan](https://github.com/user-attachments/assets/93b4ccb1-a318-43b1-abbc-242a05b6b871)
 
 ### Solution
 
