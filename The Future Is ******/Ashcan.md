@@ -7,11 +7,14 @@ Interior pages might contain unfinished pencil sketches, previously published ma
 These editions were usually printed in very small quantities—sometimes as few as two copies—one sent to the US Patent & Trademark Office and the other kept on file.
 The name "ashcan" reflects their intended fate: after fulfilling their legal purpose, they were often discarded in the trash.
 
-To find the ashcan challenge, I found the copy in the Discord channel. 
+To find the ashcan challenge, I found the copy in the Discord channel. I'd upload it here, but it is too big.
 
 ## Challenge 1 
 
 ### Description of Challenge
+
+In the Discord, I was able to find the Ashcan version. The file name is "SPOILER_TFI_AshcanEdition_DONT_DISTRIBUTE.pdf". I downloaded it, and on page 3, there is the challenge. 
+
 
 ### Solution
 
