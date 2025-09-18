@@ -17,5 +17,21 @@ In the Discord, I was able to find the Ashcan version. The file name is "SPOILER
 
 ![Ashcan](https://github.com/user-attachments/assets/93b4ccb1-a318-43b1-abbc-242a05b6b871)
 
+To start, let's go to <a href="tficomic.io/ashcan">tficomic.io/ashcan</a>. The page gives us this:
+
+> Hey there. Are you trying to crack the cover password?
+> You've been given a list of letters and 6 images of clocks.
+> How many letters are in the list?
+> Looks like the minute hand only shows 0 or 30 minutes in all of the images. How many possible clock positions are there if you are limited to 30 minute increments?
+
+And, looking at the reference inmage, the string is:
+
+> MUHSULYRWETICPBGFKJNDAZO
+
+To answer the first question, there are **24** letters in the string. And this is a type of clock cipher.
+
+I can't remember how exactly I solved it, but I know the plaintext was "REKCAH" and I entered it into the platform for **100** points.
+
 ### Solution
 
+REKCAH
