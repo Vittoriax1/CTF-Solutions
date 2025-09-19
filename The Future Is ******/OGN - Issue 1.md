@@ -6,7 +6,7 @@
 
 This challenge begins on the cover of the OGN issue.
 
-<img width="744" height="1145" alt="thefutureis_issue1_cover" src="https://github.com/user-attachments/assets/c0ff02ea-f2ef-47fd-ab9e-5d4f8c6f62c1" />
+<img width="744" height="1145" alt="TFI ****** Issue 1 Cover" src="https://github.com/user-attachments/assets/c0ff02ea-f2ef-47fd-ab9e-5d4f8c6f62c1" />
 
 In the bottom right corner, there is a cipger, which turns out to be a Pigpen cipher. It's very faint, yellow on a purple background. 
 
