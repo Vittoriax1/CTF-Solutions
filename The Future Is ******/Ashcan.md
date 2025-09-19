@@ -9,6 +9,8 @@ The name "ashcan" reflects their intended fate: after fulfilling their legal pur
 
 To find the ashcan challenge, I found the copy in the Discord channel. I'd upload it here, but it is too big.
 
+![Shopify_bef7dec5-5850-4dc1-9bb6-ea801640c416](https://github.com/user-attachments/assets/85bfc69b-92f4-426f-b94d-c6244e38c2c9)
+
 ## Challenge 1 
 
 ### Description of Challenge
