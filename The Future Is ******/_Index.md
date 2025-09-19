@@ -7,7 +7,7 @@ Note: Most of these are solved, but I need to complete the write-ups. Lesson to 
 ![TFI](https://github.com/user-attachments/assets/edf374c3-fa40-412b-9fcd-884a160e2307)
 
 #
-1. [Kickstarter Campaign 1](Kickstarter Campign 1.md)
+1. [Kickstarter Campaign 1](Kickstarter%20Campign%201.md)
    1. Challenge 1 (SOLVED)
    2. Challenge 2 (SOLVED)
    3. Challenge 3 (SOLVED)
