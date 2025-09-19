@@ -13,7 +13,9 @@ Note: Most of these are solved, but I need to complete the write-ups. Lesson to 
    1. Challenge  (SOLVED)
 3. Backdoors & Breaches
    1. Challenge  (SOLVED)
-4. OGN - Issue 1
+4. Album Cover
+   1. Cover
+5. OGN - Issue 1
    1. Cover Challenge (SOLVED)
    2. Challenge 1 (SOLVED)
    3. Challenge 2 (SOLVED)
