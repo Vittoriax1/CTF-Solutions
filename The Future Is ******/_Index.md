@@ -15,7 +15,7 @@ Note: Most of these are solved, but I need to complete the write-ups.
    1. Challenge  (SOLVED)
 4. OGN - Issue 1
    1. Cover Challenge (SOLVED)
-   2. Challenge 1
+   2. Challenge 1 (SOLVED)
    3. Challenge 2
    4. Challenge 3
    5. Challenge 4
