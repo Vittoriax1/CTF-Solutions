@@ -4,6 +4,9 @@ This is a chronological listing of the different issues of _The Future is ******
 
 Note: Most of these are solved, but I need to complete the write-ups. Lesson to remember for the future is to write these up as I go, and not way after. Don't be lazy.
 
+![TFI](https://github.com/user-attachments/assets/edf374c3-fa40-412b-9fcd-884a160e2307)
+
+#
 1. Kickstarter Campaign 1
    1. Challenge 1 (SOLVED)
    2. Challenge 2 (SOLVED)
