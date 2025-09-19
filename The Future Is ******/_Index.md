@@ -46,10 +46,10 @@ Note: Most of these are solved, but I need to complete the write-ups. Lesson to 
    3. Challenge 3
    4. Challenge 4
 10. Kickstarter Campaign 2
-   1. Challenge 1 (SOLVED)
-   2. Challenge 2 (SOLVED)
-   3. Challenge 3
-   4. Challenge 4
+      1. Challenge 1 (SOLVED)
+      2. Challenge 2 (SOLVED)
+      3. Challenge 3
+      4. Challenge 4
 11. WWHF 25
     1. Challenge 1
     2. Challenge 2
