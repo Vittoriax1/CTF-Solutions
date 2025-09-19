@@ -4,7 +4,7 @@ This is a chronological listing of the different issues of _The Future is ******
 
 Note: Most of these are solved, but I need to complete the write-ups. Lesson to remember for the future is to write these up as I go, and not way after. Don't be lazy.
 
-![TFI](https://github.com/user-attachments/assets/edf374c3-fa40-412b-9fcd-884a160e2307)
+![TFI](https://github.com/user-attachments/assets/edf374c3-fa40-412b-9fcd-884a160e2307 width="744" height="1145" alt="TFI ****** Issue 1 Cover")
 
 #
 1. Kickstarter Campaign 1
