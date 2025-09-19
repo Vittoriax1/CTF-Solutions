@@ -14,35 +14,36 @@ Note: Most of these are solved, but I need to complete the write-ups.
 3. Backdoors & Breaches
    1. Challenge  (SOLVED)
 4. OGN - Issue 1
+   1. Cover Challenge (SOLVED)
+   2. Challenge 1
+   3. Challenge 2
+   4. Challenge 3
+   5. Challenge 4
+   6. Challenge 5
+   7. Challenge 6
+   8. Challenge 7
+   9. Challenge 8
+6. Martina - Issue 2
    1. Challenge 1 - Cover
    2. Challenge 2
    3. Challenge 3
    4. Challenge 4
-   5. Challenge 5
-   6. Challenge 6
-   7. Challenge 7
-   8. Challenge 8
-5. Martina - Issue 2
+7. Eli - Issue 3
    1. Challenge 1 - Cover
    2. Challenge 2
    3. Challenge 3
    4. Challenge 4
-6. Eli - Issue 3
+8. Sally - Issue 4
    1. Challenge 1 - Cover
    2. Challenge 2
    3. Challenge 3
    4. Challenge 4
-7. Sally - Issue 4
+9. Art & Arf - Issue 5
    1. Challenge 1 - Cover
    2. Challenge 2
    3. Challenge 3
    4. Challenge 4
-8. Art & Arf - Issue 5
-   1. Challenge 1 - Cover
-   2. Challenge 2
-   3. Challenge 3
-   4. Challenge 4
-9. Kickstarter Campaign 2
+10. Kickstarter Campaign 2
    1. Challenge 1 (SOLVED)
    2. Challenge 2 (SOLVED)
    3. Challenge 3
