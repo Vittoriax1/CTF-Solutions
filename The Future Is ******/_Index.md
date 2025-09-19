@@ -50,3 +50,7 @@ Note: Most of these are solved, but I need to complete the write-ups. Lesson to 
    2. Challenge 2 (SOLVED)
    3. Challenge 3
    4. Challenge 4
+11. WWHF 25
+    1. Challenge 1
+    2. Challenge 2
+    3. Challenge 3
