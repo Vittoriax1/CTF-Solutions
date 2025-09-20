@@ -29,31 +29,30 @@ Note: Most of these are solved, but I need to complete the write-ups. Lesson to 
    8. Challenge 7
    9. Challenge 8
 6. Martina - Issue 2
-   1. Challenge 1 - Cover
-   2. Challenge 2
-   3. Challenge 3
-   4. Challenge 4
+   1. Cover Challenge
+   2. Challenge 1
+   3. Challenge 2
 7. Eli - Issue 3
-   1. Challenge 1 - Cover
-   2. Challenge 2
-   3. Challenge 3
-   4. Challenge 4
+   1. Cover Challenge
+   2. Challenge 1
+   3. Challenge 2
+   4. Challenge 3
 8. Sally - Issue 4
-   1. Challenge 1 - Cover
+   1. Cover Challenge
    2. Challenge 2
    3. Challenge 3
    4. Challenge 4
 9. Art & Arf - Issue 5
-   1. Challenge 1 - Cover
-   2. Challenge 2
-   3. Challenge 3
-   4. Challenge 4
+   1. Cover Challenge
+   2. Challenge 1
+   3. Challenge 2
+   4. Challenge 3
 10. [Kickstarter Campaign 2](Kickstarter%20Campaign%202.md)
       1. Challenge 1 (SOLVED)
       2. Challenge 2 (SOLVED)
       3. Challenge 3
       4. Challenge 4
-11. WWHF 25
+11. WWHF 25 (Not yet released)
     1. Challenge 1
     2. Challenge 2
     3. Challenge 3
