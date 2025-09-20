@@ -36,7 +36,6 @@ Note: Most of these are solved, but I need to complete the write-ups. Lesson to 
    1. Cover Challenge
    2. Challenge 1
    3. Challenge 2
-   4. Challenge 3
 8. Sally - Issue 4
    1. Cover Challenge
    2. Challenge 2
